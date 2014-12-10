@@ -13,11 +13,10 @@
   },
   "homepage": "https://github.com/ARMmbed/mbed-hal-st",
   "license": "Apache-2",
-  "dependencies": {
-  },
+  "dependencies": {},
   "targetDependencies": {
     "nucleo-f401re": {
-      "mbed-hal-nucleo-f401re": "ARMmbed/mbed-hal-nucleo-f401re"
+      "mbed-hal-nucleo-f401re": "ARMmbed/mbed-hal-nucleo-f401re#~0.0.1"
     }
   }
 }
