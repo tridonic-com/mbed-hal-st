@@ -16,7 +16,7 @@
   "dependencies": {},
   "targetDependencies": {
     "nucleo-f401re": {
-      "mbed-hal-nucleo-f401re": "ARMmbed/mbed-hal-nucleo-f401re#~0.1.0"
+      "mbed-hal-nucleo-f401re": "ARMmbed/mbed-hal-nucleo-f401re-private#~0.1.0"
     }
   }
 }
