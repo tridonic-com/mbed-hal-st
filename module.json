@@ -1,6 +1,6 @@
 {
   "name": "mbed-hal-st",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "mbed low-level Hardware Abstraction Layer implementation for ST microcontrollers",
   "private": true,
   "keywords": [
@@ -16,8 +16,8 @@
   "license": "Apache-2",
   "dependencies": {},
   "targetDependencies": {
-    "nucleo-f401re": {
-      "mbed-hal-nucleo-f401re": "~0.1.0"
-    }
+      "stm32f4" : {
+          "mbed-hal-st-stm32f4" : "~0.1.0"
+      }
   }
 }
