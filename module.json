@@ -17,7 +17,7 @@
   "dependencies": {},
   "targetDependencies": {
     "stm32f4": {
-      "mbed-hal-st-stm32f4": "~0.1.0"
+      "mbed-hal-st-stm32f4": "~0.2.0"
     }
   }
 }
