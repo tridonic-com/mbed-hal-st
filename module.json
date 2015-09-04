@@ -1,6 +1,6 @@
 {
   "name": "mbed-hal-st",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "mbed low-level Hardware Abstraction Layer implementation for ST microcontrollers",
   "keywords": [
     "mbed",
