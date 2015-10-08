@@ -17,6 +17,9 @@
   "targetDependencies": {
     "stm32f4": {
       "mbed-hal-st-stm32f4": "~0.5.0"
+    },
+	  "stm32f0": {
+      "mbed-hal-st-stm32f0": "tridonic-com/cmsis-core-st#tridonic"
     }
   }
 }
