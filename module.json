@@ -17,10 +17,10 @@
   "dependencies": {},
   "targetDependencies": {
     "stm32f4": {
-      "mbed-hal-st-stm32f4": "tridonic-com/mbed-hal-st-stm32f4#tridonic"
+      "mbed-hal-st-stm32f4": "ivan-adzic-tridonic-com/mbed-hal-st-stm32f4#i2c-dma"
     },
     "stm32f0": {
-      "mbed-hal-st-stm32f0": "tridonic-com/mbed-hal-st-stm32f0#tridonic"
+      "mbed-hal-st-stm32f0": "ivan-adzic-tridonic-com/mbed-hal-st-stm32f0#i2c-dma"
     }
   }
 }
