@@ -17,7 +17,7 @@
   "dependencies": {},
   "targetDependencies": {
     "stm32f4": {
-      "mbed-hal-st-stm32f4": "tridonic-com/mbed-hal-st-stm32f4#Internal_Flash_Driver_Fix_and_Adding_Core_Driver"
+      "mbed-hal-st-stm32f4": "martin-tomasini-tridonic-com/mbed-hal-st-stm32f4#Internal_Flash_Driver_Fix_and_Adding_Core_Driver"
     },
     "stm32f0": {
       "mbed-hal-st-stm32f0": "tridonic-com/mbed-hal-st-stm32f0#b0.3.1-tri-0.5.0"
